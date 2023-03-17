@@ -1,0 +1,15 @@
+D:\c# projects\task1_csharp\bin\Debug\net7.0\task1_csharp.exe
+D:\c# projects\task1_csharp\bin\Debug\net7.0\task1_csharp.deps.json
+D:\c# projects\task1_csharp\bin\Debug\net7.0\task1_csharp.runtimeconfig.json
+D:\c# projects\task1_csharp\bin\Debug\net7.0\task1_csharp.dll
+D:\c# projects\task1_csharp\bin\Debug\net7.0\task1_csharp.pdb
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.csproj.AssemblyReference.cache
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.AssemblyInfoInputs.cache
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.AssemblyInfo.cs
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.csproj.CoreCompileInputs.cache
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.dll
+D:\c# projects\task1_csharp\obj\Debug\net7.0\refint\task1_csharp.dll
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.pdb
+D:\c# projects\task1_csharp\obj\Debug\net7.0\task1_csharp.genruntimeconfig.cache
+D:\c# projects\task1_csharp\obj\Debug\net7.0\ref\task1_csharp.dll
