@@ -22,7 +22,7 @@ namespace task1_csharp
             int size;
             do
             {
-                Console.WriteLine("Enter matrix size (>= 2): ");
+                Console.Write("Enter matrix size (>= 2): ");
                 size = Convert.ToInt32(Console.ReadLine());
             } while (size < 2);
             return size;
